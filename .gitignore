@@ -1,0 +1,15 @@
+# Database & local storage
+drawings.db
+drawings_storage/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
